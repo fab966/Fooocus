@@ -34,7 +34,7 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_prompt": "8k, UHD, ultra high definition, sharpness, hyper-realistic, professional photography, stunning photo, fashion photography",
+    "default_prompt": "8k, UHD, RAW photo, ultra high definition, sharpness, hyper-realistic, professional photography",
     "default_prompt_negative": "poorly Rendered face, poorly drawn face, poor facial details, poorly drawn hands, poorly rendered hands, mutated body parts, blurry image, disfigured, bad anatomy, deformed body features, unrealistic anatomy, unsharp, painting, cartoons, sketch, unclear, grainy, low resolution, change face expression, unrealistic genitalia, fat body, cartoon, anime, abstract, low detail, painted, illustration, noisy, childish, unrealistic faces, unrealistic body",
     "default_styles": [
         "Fooocus V2",
