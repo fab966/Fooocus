@@ -15,13 +15,13 @@
         ],
         [
             true,
-            "None",
-            1.0
+            "slimwoman_v2.safetensors",
+            0.75
         ],
         [
-            true,
-            "None",
-            1.0
+            false,
+            "SDS_FLASH.safetensors",
+            0.7
         ],
         [
             true,
@@ -34,8 +34,8 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "8k, UHD, ultra high definition, sharpness, hyper-realistic, professional photography, stunning photo, fashion photography",
+    "default_prompt_negative": "poorly Rendered face, poorly drawn face, poor facial details, poorly drawn hands, poorly rendered hands, mutated body parts, blurry image, disfigured, bad anatomy, deformed body features, unrealistic anatomy, unsharp, painting, cartoons, sketch, unclear, grainy, low resolution, change face expression, unrealistic genitalia, fat body, cartoon, anime, abstract, low detail, painted, illustration, noisy, childish, unrealistic faces, unrealistic body",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
@@ -49,7 +49,9 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "Stubble Pussy v2.safetensors": "https://civitai.com/api/download/models/2080815?type=Model&format=SafeTensor&token=f63b7a93e170e39d3f2c7b5889a969f8"
+        "Stubble Pussy v2.safetensors": "https://civitai.com/api/download/models/2080815?type=Model&format=SafeTensor&token=f63b7a93e170e39d3f2c7b5889a969f8",
+        "slimwoman_v2.safetensors": "https://civitai.com/api/download/models/247083?type=Model&format=SafeTensor&token=f63b7a93e170e39d3f2c7b5889a969f8",
+        "SDS_FLASH.safetensors": "https://civitai.com/api/download/models/176119?type=Model&format=SafeTensor&token=f63b7a93e170e39d3f2c7b5889a969f8"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
