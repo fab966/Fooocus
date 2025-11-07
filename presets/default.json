@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1280*768",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "epicrealismXL_vxviiCrystalclear.safetensors": "https://civitai.com/api/download/models/1920523?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=f63b7a93e170e39d3f2c7b5889a969f8",
+        "epicrealismXL_vxviiCrystalclear.safetensors": "https://civitai.com/api/download/models/1920523?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=f63b7a93e170e39d3f2c7b5889a969f8"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
